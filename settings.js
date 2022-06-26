@@ -23,12 +23,12 @@ global.APIKeys = {
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94770704840'] //Owner number in aive msg
+global.premium = ['+94770704840'] //Owner Number info
+global.ownernomer = '+94770704840' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+global.ownername = '😎Sakeesha Tharinda' //Owner Name
+global.botname = ' ☬ST tech show' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
 global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
@@ -42,8 +42,8 @@ global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '©_Kumuthu.' // DO NOT CHANGE!
+global.ig = 'https://youtube.com/c/STtechshow' //Github Account!
+global.footer = 'ST tech show.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
@@ -53,7 +53,7 @@ global.mess = { // Error Mesages
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: 'Please Wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
